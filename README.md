@@ -43,10 +43,10 @@
   
 ##
 
-### GitHub stats
+### :large_orange_diamond: GitHub stats
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gustavodalpasquale&show_icons=true&theme=dark#gh-dark-mode-only)
   
-### Top languages in GitHub
+### 	:small_orange_diamond: Top languages in GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodalpasquale&layout=compact)
 
 ##
