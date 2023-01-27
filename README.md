@@ -1,6 +1,6 @@
 # Hi, Gustavo here. :call_me_hand:
 
-### About me
+### :blond_haired_man: About me
 
 ##
 
