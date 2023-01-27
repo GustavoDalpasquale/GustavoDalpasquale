@@ -16,9 +16,6 @@
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" width="50" height="50" />
   </a>
    <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".Net Core" title=".Net Core" width="50" height="50" />
-  </a>
-   <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML 5" title="HTML 5" width="50" height="50" />
   </a>
    <a href="#">
