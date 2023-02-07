@@ -22,15 +22,16 @@
    <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS 3" title="CSS 3" width="50" height="50" />
   </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  </a>
 </div>
 
 ##
 
 ### :books: Learning
 <div>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
-  </a>
+  
 <div>
 
 ##
