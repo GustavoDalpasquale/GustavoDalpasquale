@@ -11,10 +11,11 @@
 ### :hammer_and_wrench: Tools and languages
 <div>
   <a href="#>
-    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" width="50" height="50" />
-  </a>    
+    <img src="user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" width="50" height="50" />
+  </a>
   <a href="#>
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" width="50" height="50" />
+    
   </a>    
   <a href="#>
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML 5" title="HTML 5" width="50" height="50" />
