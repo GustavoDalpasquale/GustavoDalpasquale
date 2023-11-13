@@ -10,7 +10,7 @@
 
 ### :hammer_and_wrench: Tools and languages
 <div>
-  <a href="#">
+  <a href="#" text-decoration="none">
     <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" width="50" height="50" />
   </a>
   <a href="#">
