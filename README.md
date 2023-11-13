@@ -11,30 +11,18 @@
 ### :hammer_and_wrench: Tools and languages
 <div>
     <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" width="50" height="50" />
-   <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" width="50" height="50" />
-  </a>
-   <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML 5" title="HTML 5" width="50" height="50" />
-  </a>
-   <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS 3" title="CSS 3" width="50" height="50" />
-  </a>
-  <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
-  </a>
-  <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" width="50" height="50" />
-  </a>  
 </div>
 
 ##
 
 ### :books: Learning
 <div>
-  <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" width="50" height="50" />
-  </a> 
 <div>
 
 ##
