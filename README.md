@@ -34,9 +34,7 @@
 
 ### :books: Learning
 <div>
-  <a href="#">
-    
-  </a>
+  
 <div>
 
 ##
