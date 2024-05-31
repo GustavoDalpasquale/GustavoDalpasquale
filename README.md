@@ -35,7 +35,7 @@
 ### :books: Learning
 <div>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" width="50" height="50" />
+    
   </a>
 <div>
 
