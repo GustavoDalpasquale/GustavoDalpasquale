@@ -34,7 +34,9 @@
 
 ### :books: Learning
 <div>
-  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="React" title="React" width="50" height="50" />
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="React" title="React" width="50" height="50" />
+  </a>
 <div>
 
 ##
