@@ -2,7 +2,7 @@
 
 ### :blond_haired_man: About me
 <div>  
-  <p>I born in Brazil on 2001, and actual work to Bludata Software as Support Analyst, but I’m studing programming languages to be a great software engineer.</p>
+  <p>I born in Brazil on 2001, and actual work to Bludata Software as Support Analyst, but I’m studing to be a great software engineer.</p>
   <p>In my social life, I like to go on gym, watch series and play videogames, that’s my favorites hobbies.</p>
 </div>
 
